@@ -19,6 +19,7 @@
   
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luktur)](https://github.com/luktur/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luktur&layout=compact&count_private=true&access_token=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)
+
 
 
